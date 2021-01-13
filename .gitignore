@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Add
+x64
+v16
+.vscode
+.vs
+
+
