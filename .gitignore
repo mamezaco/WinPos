@@ -32,9 +32,8 @@
 *.app
 
 # Add
+Browse.VC.db
 x64
 v16
 .vscode
 .vs
-
-
